@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nombre": "Mainframe Z/Os",
+    "descripcion": "Generalidades",
+    "precio": 120000,
+    "img": "img/imagen1.jpg"
+  },
+  {
+    "id": "2",
+    "nombre": "Cobol Batch",
+    "descripcion": "Estructuras de Programas",
+    "precio": 55000,
+    "img": "img/imagen2.jpg"
+  },
+  {
+    "id": "3",
+    "nombre": "Jcl",
+    "descripcion": "Control de Tareas",
+    "precio": 110000,
+    "img": "img/imagen3.jpg"
+  },
+  {
+    "id": "4",
+    "nombre": "Archivos",
+    "descripcion": "Qsam - Vsam",
+    "precio": 35000,
+    "img": "img/imagen4.jpg"
+  }
+]
